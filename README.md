@@ -2,7 +2,7 @@
 
 Página web con la estrategia completa para monetizar la presencia de **@aandriiiu** en Instagram: captura de emails, lanzamientos de productos, membresía artística y todos los textos comerciales listos para usar.
 
-👉 **Ver la página publicada:** [aandriiiu.github.io](https://aandriiiu.github.io)
+👉 **Ver la página publicada:** jigainternet.github.io/andriiu([(https://jigainternet.github.io/andriiu/)])
 
 ---
 
@@ -12,7 +12,7 @@ Página web con la estrategia completa para monetizar la presencia de **@aandrii
 
 1. Ve a [github.com](https://github.com) e inicia sesión (o crea una cuenta gratuita)
 2. Haz clic en el botón **"New"** (repositorio nuevo)
-3. En **"Repository name"** escribe exactamente: `aandriiiu.github.io`
+3. En **"Repository name"** escribe exactamente: `jigainternet.github.io/andriiu`
    - ⚠️ El nombre debe ser `tunombredeusuario.github.io` (con tu usuario real de GitHub)
    - Si tu usuario de GitHub es `aandriiiu`, el repo se llama `aandriiiu.github.io`
 4. Marca la opción **"Public"** (debe ser público para GitHub Pages gratuito)
